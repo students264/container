@@ -11,7 +11,7 @@ A responsive personal portfolio website built with **HTML, CSS, and Bootstrap**,
 2. Amazon Elastic Container Service (ECS)
 3. AWS Fargate
 4. AWS Application Load Balancer
-5. IAM
+5. IAM User 
 
 
 ## AWS Deployment Summary
